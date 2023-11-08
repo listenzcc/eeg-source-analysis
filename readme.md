@@ -6,6 +6,9 @@
 
 [eeg-source-analysis](https://listenzcc.github.io/eeg-source-analysis/ "eeg-source-analysis")
 
+Visit the page [https://listenzcc.github.io/eeg-source-analysis/](https://listenzcc.github.io/eeg-source-analysis/) to see the source code.
+
+
 ---
 - [脑电溯源方法简述（I）](#脑电溯源方法简述i)
   - [脑电数据简介](#脑电数据简介)
@@ -53,6 +56,12 @@ ERP（Event-Related Potentials）是一种特定类型的脑电活动，它是�
 之前已经根据 EEG 电极位置（红）与神经元（黄）之间的位置关系建立了头模型，接下来只需求解逆问题即可实现 ERP 反推到神经元活动的时间序列，如下动图所示。
 
 ![Untitled](%E8%84%91%E7%94%B5%E6%BA%AF%E6%BA%90%E6%96%B9%E6%B3%95%E7%AE%80%E8%BF%B0%EF%BC%88I%EF%BC%89%2048542f221be74ad5b0c4aba0b0441503/movie.png)
+
+<video src="./movie-flat.mp4" controls autoplay loop>
+</video>
+
+<video src="./movie.mp4" controls autoplay loop>
+</video>
 
 [movie.mp4](%E8%84%91%E7%94%B5%E6%BA%AF%E6%BA%90%E6%96%B9%E6%B3%95%E7%AE%80%E8%BF%B0%EF%BC%88I%EF%BC%89%2048542f221be74ad5b0c4aba0b0441503/movie.mp4)
 
